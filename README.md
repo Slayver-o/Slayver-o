@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently: learning Computer Science Basics.<br>🎯 Goals: Front-end developer with a strong understanding of fundamentals and scalability</p>
+<p align="left">📚 I'm currently learning: Computer Science Basics.<br>🎯 Goals: Front-end developer with a strong understanding of fundamentals and scalability</p>
 
 ###
 
