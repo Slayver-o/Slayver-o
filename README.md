@@ -6,12 +6,6 @@
 
 ###
 
-<h2 align="left">About me.</h2>
-
-###
-
-<p align="left">📚 I'm currently: learning Computer Science Basics.<br>🎯 Goals: Front-end developer with a strong understanding of fundamentals and scalability</p>
-
 ###
 
 <h2 align="left">I code with</h2>
